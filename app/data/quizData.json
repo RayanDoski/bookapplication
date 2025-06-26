@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Vilken typ av upplevelse söker du främst?",
+        "options": [
+            "En fängslande, känslomässig berättelse",
+            "Ett spännande äventyr",
+            "Djupare reflektion och insikter",
+            "Lättsam och humoristisk läsning"
+        ]
+    },
+    {
+        "question": "Vilken litterär stil föredrar du?",
+        "options": [
+            "Klassisk, rikt språk",
+            "Modern, rak berättarstil",
+            "Experimentell, tankeväckande",
+            "Barn- & ungdomsanpassad/mysig"
+        ]
+    },
+    {
+        "question": "Vilken tidsperiod eller miljö lockar mest?",
+        "options": [
+            "Historisk eller sagolik",
+            "Realistisk nutid",
+            "Framtida, fantastisk eller surrealistisk",
+            "Nära och personlig, inre fokus"
+        ]
+    },
+    {
+        "question": "Vad är viktigast att få ut av läsningen?",
+        "options": [
+            "Känna starkt för karaktärerna",
+            "Bli uppslukad av handlingen",
+            "Lära dig något nytt",
+            "Ha kul och underhållas"
+        ]
+    }
+]

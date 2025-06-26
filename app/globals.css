@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+  /* Vita nyanser */
+  --white: #F8F8F8;
+  /* Mjuk, nästan benvit, som rent papper */
+  --light-gray: #E0E0E0;
+  /* Ljusgrå för subtila element */
+
+  /* Svarta nyanser */
+  --black: #2A2A2A;
+  /* Mjuk, mörkgrå-svart, som gammalt bläck */
+  --dark-gray: #4A4A4A;
+  /* Mörkgrå för gränser och djup */
+
+  /* Accentfärger - bok- och kunskapsinspirerade */
+  --accent-light: #7E57C2;
+  /* En lugn, medel lila (amethyst) */
+  --accent-dark: #673AB7;
+  /* En djupare lila för hover/fokus */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --white: #2A2A2A;
+    /* Vit för mörkt läge blir den mjukare svarta */
+    --light-gray: #4A4A4A;
+    /* Ljusgrå för mörkt läge blir den mörkare gråa */
+
+    --black: #F8F8F8;
+    /* Svart för mörkt läge blir den mjukare vita */
+    --dark-gray: #D0D0D0;
+    /* Mörkgrå för mörkt läge blir en ljusgrå */
+
+    --accent-light: #8E78D0;
+    /* Ljusare lila för mörkt tema för bättre kontrast */
+    --accent-dark: #9C27B0;
+    /* Fortfarande accent men anpassad för mörkt tema */
+  }
+}
+
+body {
+  background: var(--white);
+  /* Exempel: Använd --white som bakgrund */
+  color: var(--black);
+  /* Exempel: Använd --black som förgrundstext */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: var(--background-dark);
+    color: var(--foreground-dark);
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

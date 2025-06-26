@@ -1,0 +1,1220 @@
+[
+    {
+        "id": "1",
+        "title": "Röda rummet",
+        "author": "August Strindberg",
+        "description": "En satirisk roman som skildrar Stockholms intellektuella och bohemiska kretsar på 1870-talet, med skarpa iakttagelser av samhället och dess hyckleri.",
+        "amazon_link": "https://amzn.to/4k3TUKZ",
+        "image": "redRoom.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Gösta Berlings saga",
+        "author": "Selma Lagerlöf",
+        "description": "En romantisk berättelse om den avsatte prästen Gösta Berling och hans äventyr bland Värmlands excentriska majorer och kvinnor, fylld med poesi och folklig charm.",
+        "amazon_link": "https://amzn.to/4eiDNb8",
+        "image": "gbsBook.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Jerusalem",
+        "author": "Selma Lagerlöf",
+        "description": "En episk roman om en grupp dalabönder som emigrerar till Jerusalem i slutet av 1800-talet, driven av religiös övertygelse och sökandet efter ett andligt liv.",
+        "amazon_link": "https://amzn.to/46eKyJ4",
+        "image": "jerusalemBook.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Nils Holgerssons underbara resa genom Sverige",
+        "author": "Selma Lagerlöf",
+        "description": "Sagan om den odygdige Nils som förvandlas till en pyssling och reser över Sverige på en gåsrygg, där han lär sig om landets geografi, djurliv och människors godhet.",
+        "amazon_link": "https://amzn.to/3TcpWJT",
+        "image": "nilsHolgerssonBook.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Hemsöborna",
+        "author": "August Strindberg",
+        "description": "En realistisk skildring av livet i den svenska skärgården, med färgstarka karaktärer och konflikter som uppstår när en stockholmare försöker modernisera ett gammalt lantbruk.",
+        "amazon_link": "https://amzn.to/45Bc5UQ",
+        "image": "hemsoBook.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Tjänstekvinnans son",
+        "author": "August Strindberg",
+        "description": "Strindbergs självbiografiska roman som utforskar hans barndom och uppväxt, med fokus på klasskillnader, familjerelationer och hans tidiga kamp för att hitta sin plats i världen.",
+        "amazon_link": "https://amzn.to/46djGsV",
+        "image": "tjanstekvinnansSonBook.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Doktor Glas",
+        "author": "Hjalmar Söderberg",
+        "description": "En psykologisk roman om en idealistisk läkares moraliska dilemman och mörka tankar i sekelskiftets Stockholm, där kärlek, mord och samvete står i centrum.",
+        "amazon_link": "https://amzn.to/40oMQ4x",
+        "image": "doktorGlasBook.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Den allvarsamma leken",
+        "author": "Hjalmar Söderberg",
+        "description": "En skildring av en passionerad men komplicerad kärlekshistoria i Stockholm, som utforskar obesvarad kärlek, drömmar och verklighetens krassa villkor.",
+        "amazon_link": "https://amzn.to/3Ta9jys",
+        "image": "denAllvarsammaLekenBook.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Vägen till Klockrike",
+        "author": "Harry Martinson",
+        "description": "En poetisk roman som följer luffaren Bolles vandring genom Sverige, en betraktelse över frihet, mänskligt sökande och den lilla människans plats i naturen.",
+        "amazon_link": "https://amzn.to/4loFO86",
+        "image": "vagenTillKlockrikeBook.jpg"
+    },
+    {
+        "id": "10",
+        "title": "Aniara",
+        "author": "Harry Martinson",
+        "description": "Ett storslaget rymdepos om ett jordenflyktingskepp som kommer ur kurs och driver genom rymden, en allegori över mänsklighetens öde och existentiella frågor.",
+        "amazon_link": "https://amzn.to/440zUEp",
+        "image": "aniaraBook.jpg"
+    },
+    {
+        "id": "11",
+        "title": "Barabbas",
+        "author": "Pär Lagerkvist",
+        "description": "En roman om Barabbas, rövaren som friades när Jesus korsfästes, och hans livslånga sökande efter sanning och tro i skuggan av korset.",
+        "amazon_link": "https://amzn.to/44j4ms6",
+        "image": "barabbasBook.jpg"
+    },
+    {
+        "id": "12",
+        "title": "Utvandrarna",
+        "author": "Vilhelm Moberg",
+        "description": "Den första delen i Mobergs klassiska epos om Karl Oskar och Kristinas resa från Småland till Amerika i mitten av 1800-talet, i hopp om ett bättre liv.",
+        "amazon_link": "https://amzn.to/3TF4xcj",
+        "image": "utvandrarnaBook.jpg"
+    },
+    {
+        "id": "13",
+        "title": "Invandrarna",
+        "author": "Vilhelm Moberg",
+        "description": "Fortsättningen på Utvandrarna, som skildrar Karl Oskar och Kristinas första svåra år som nybyggare i den amerikanska vildmarken.",
+        "amazon_link": "https://amzn.to/4kccTTz",
+        "image": "invandrarnaBook.jpg"
+    },
+    {
+        "id": "14",
+        "title": "Nybyggarna",
+        "author": "Vilhelm Moberg",
+        "description": "Den tredje delen i Utvandrarsviten, som följer familjens kamp att överleva och bygga upp ett nytt hem i Minnesota, mitt i naturkrafterna och andra nybyggare.",
+        "amazon_link": "https://amzn.to/3GdheYW",
+        "image": "nybyggarnaBook.jpg"
+    },
+    {
+        "id": "15",
+        "title": "Sista brevet till Sverige",
+        "author": "Vilhelm Moberg",
+        "description": "Den avslutande delen i Utvandrarsviten, som behandlar de sista åren för nybyggarna, deras åldrande och hur de reflekterar över sina livsval.",
+        "amazon_link": "https://amzn.to/46c4WKL",
+        "image": "sistaBrevetTillSverigeBook.jpg"
+    },
+    {
+        "id": "16",
+        "title": "Pippi Långstrump",
+        "author": "Astrid Lindgren",
+        "description": "Berättelsen om världens starkaste tjej, Pippi Långstrump, som bor i Villa Villekulla med sin apa och häst, och alltid hittar på bus och äventyr.",
+        "amazon_link": "https://amzn.to/46aJGVN",
+        "image": "pippiLangstrumpBook.jpg"
+    },
+    {
+        "id": "17",
+        "title": "Bröderna Lejonhjärta",
+        "author": "Astrid Lindgren",
+        "description": "En gripande och tidlös saga om bröderna Skorpan och Jonatan som möts i Nangijala och kämpar mot den onde Tengil och draken Katla för frihet och rättvisa.",
+        "amazon_link": "https://amzn.to/4ehh9zY",
+        "image": "brodernaLejonhjartaBook.jpg"
+    },
+    {
+        "id": "18",
+        "title": "Ronja Rövardotter",
+        "author": "Astrid Lindgren",
+        "description": "En äventyrsberättelse om Ronja, en vild och självständig rövardotter som trotsar sin fars vilja och finner vänskap i den farliga Mattisskogen.",
+        "amazon_link": "https://amzn.to/4ejv9JH",
+        "image": "ronjaRovardotterBook.jpg"
+    },
+    {
+        "id": "19",
+        "title": "Karl-Bertil Jonssons julafton",
+        "author": "Tage Danielsson",
+        "description": "En älskad julsaga om den unga Karl-Bertil som under julafton omfördelar paket från de rika till de fattiga, med ett varmt budskap om medmänsklighet.",
+        "amazon_link": "https://amzn.to/4kagZvw",
+        "image": "karlBertilJonssonsJulaftonBook.jpg"
+    },
+    {
+        "id": "20",
+        "title": "Hundraåringen som klev ut genom fönstret och försvann",
+        "author": "Jonas Jonasson",
+        "description": "En komisk roman om Allan Karlsson, som på sin hundraårsdag rymmer från ålderdomshemmet och råkar ut för en rad osannolika och hysteriska äventyr.",
+        "amazon_link": "https://amzn.to/4k7HVMo",
+        "image": "hundraaringenBook.jpg"
+    },
+    {
+        "id": "21",
+        "title": "En man som heter Ove",
+        "author": "Fredrik Backman",
+        "description": "En hjärtevärmande och humoristisk berättelse om den vresige men godhjärtade Ove, vars liv vänds upp och ner när nya grannar flyttar in.",
+        "amazon_link": "https://amzn.to/4kZwoQN",
+        "image": "enManSomHeterOveBook.jpg"
+    },
+    {
+        "id": "22",
+        "title": "Britt-Marie var här",
+        "author": "Fredrik Backman",
+        "description": "En charmig och rörande roman om Britt-Marie, en ordningssam kvinna som hamnar i en stökig småstad och motvilligt finner sin plats i ett fotbollslag.",
+        "amazon_link": "https://amzn.to/4k9jEWq",
+        "image": "brittMarieVarHarBook.jpg"
+    },
+    {
+        "id": "23",
+        "title": "Min mormor hälsar och säger förlåt",
+        "author": "Fredrik Backman",
+        "description": "En fantasifull och gripande berättelse om Elsa, 7 år, och hennes mormor, som tar henne med på äventyr i ett sagoland för att bearbeta sorg och förstå sig själv.",
+        "amazon_link": "https://amzn.to/44hMLkh",
+        "image": "minMormorHalsarOchSagerForlatBook.jpg"
+    },
+    {
+        "id": "24",
+        "title": "Störst av allt",
+        "author": "Malin Persson Giolito",
+        "description": "En spänningsroman som kretsar kring en skolskjutning i en rik Stockholmsförort, där en ung flicka ställs inför rätta, och frågan om skuld och ansvar utforskas.",
+        "amazon_link": "https://amzn.to/4k9Ezsw",
+        "image": "storstAvAlltBook.jpg"
+    },
+    {
+        "id": "25",
+        "title": "Allt jag inte minns",
+        "author": "Jonas Hassen Khemiri",
+        "description": "En berättelse om kärlek, minne och identitet som nystas upp genom olika röster och perspektiv kring en ung mans mystiska död i Stockholm.",
+        "amazon_link": "https://amzn.to/40oBUE7",
+        "image": "alltJagInteMinnsBook.jpg"
+    },
+    {
+        "id": "26",
+        "title": "Silvervägen",
+        "author": "Stina Jackson",
+        "description": "En hyllad spänningsroman som utspelar sig i Norrlands djupa skogar, där en far letar desperat efter sin försvunna dotter längs den ödesmättade Silvervägen.",
+        "amazon_link": "https://amzn.to/4kT73YB",
+        "image": "silvervagenBook.jpg"
+    },
+    {
+        "id": "27",
+        "title": "Den svavelgula himlen",
+        "author": "Kjell Westö",
+        "description": "En episk roman som skildrar vänskap, kärlek och politik i efterkrigstidens Helsingfors, genom en generation som formar sin identitet i en föränderlig tid.",
+        "amazon_link": "https://amzn.to/3Gf6ZTW",
+        "image": "denSvavelgulaHimlenBook.jpg"
+    },
+    {
+        "id": "28",
+        "title": "Din stund på jorden",
+        "author": "Vilhelm Moberg",
+        "description": "Mobergs sista stora roman, en melankolisk betraktelse över livet, döden och den mänskliga existensen, med kopplingar till författarens egen barndom.",
+        "amazon_link": "https://amzn.to/4l2l7iC",
+        "image": "dinStundPaJordenBook.jpg"
+    },
+    {
+        "id": "29",
+        "title": "Tusen gånger starkare",
+        "author": "Christina Herrström",
+        "description": "En berättelse om den blyga Saga som plötsligt får mod att ifrågasätta sociala hierarkier och normer på sin skola, en hyllning till att våga stå upp för sig själv.",
+        "amazon_link": "https://amzn.to/44eqVhB",
+        "image": "tusenGangerStarkareBook.jpg"
+    },
+    {
+        "id": "30",
+        "title": "Ett öga rött",
+        "author": "Jonas Hassen Khemiri",
+        "description": "En debutroman som följer Halim, en ung man med invandrarbakgrund, och hans försök att förstå sin identitet och plats i det svenska samhället, skriven i en unik stil.",
+        "amazon_link": "https://amzn.to/46cyg3O",
+        "image": "ettOgaRottBook.jpg"
+    },
+    {
+        "id": "31",
+        "title": "Fru Marianne",
+        "author": "Victoria Benedictsson",
+        "description": "En realistisk roman som skildrar en ung kvinnas uppvaknande och hennes kamp för självförverkligande i ett samhälle präglat av patriarkala normer.",
+        "amazon_link": "https://amzn.to/45H87Km",
+        "image": "fruMarianneBook.jpg"
+    },
+    {
+        "id": "32",
+        "title": "Kejsarn av Portugallien",
+        "author": "Selma Lagerlöf",
+        "description": "En rörande saga om en far som förlorar sin dotter och flyr in i en fantasivärld där han utnämner sig själv till kejsare av Portugallien för att hantera sorgen.",
+        "amazon_link": "https://amzn.to/4l25xU6",
+        "image": "kejsarnAvPortugallienBook.jpg"
+    },
+    {
+        "id": "33",
+        "title": "Stolthet och fördom",
+        "author": "Jane Austen",
+        "description": "En tidlös klassiker om kärlek, klass och äktenskap i 1800-talets England, med den självständiga Elizabeth Bennet och den stolte Mr. Darcy i centrum.",
+        "amazon_link": "https://amzn.to/3G4TAxL",
+        "image": "stolthetOchFordomBook.jpg"
+    },
+    {
+        "id": "34",
+        "title": "Emma",
+        "author": "Jane Austen",
+        "description": "En kvick och humoristisk roman om den välmenande men något övermodiga Emma Woodhouse som älskar att para ihop människor, men som själv har svårt att se sanningen.",
+        "amazon_link": "https://amzn.to/4kVCmSv",
+        "image": "emmaBook.jpg"
+    },
+    {
+        "id": "35",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "description": "En passionerad och tragisk gotisk roman om den vilda och stormiga kärlekshistorien mellan Catherine Earnshaw och Heathcliff på den ensliga heden.",
+        "amazon_link": "https://amzn.to/4ekgoWV",
+        "image": "wutheringHeightsBook.jpg"
+    },
+    {
+        "id": "36",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "description": "En klassisk roman om den föräldralösa Jane Eyres kamp för självständighet och kärlek, och hennes komplexa relation med den mystiske Mr. Rochester.",
+        "amazon_link": "https://amzn.to/4k5imLZ",
+        "image": "janeEyreBook.jpg"
+    },
+    {
+        "id": "37",
+        "title": "Svindlande höjder",
+        "author": "Emily Brontë",
+        "description": "Svensk titel för 'Wuthering Heights'. En intensiv och mörk kärlekshistoria som utspelar sig på den karga engelska landsbygden, fylld av hämnd och besatthet.",
+        "amazon_link": "https://amzn.to/3TbD8yK",
+        "image": "svindlandeHojderBook.jpg"
+    },
+    {
+        "id": "38",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "description": "En gotisk skräckroman om Victor Frankenstein som skapar en levande varelse, och de tragiska konsekvenserna av hans vetenskapliga ambitioner.",
+        "amazon_link": "https://amzn.to/3TNfclf",
+        "image": "frankensteinBook.jpg"
+    },
+    {
+        "id": "39",
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "description": "En episk äventyrsroman om kapten Ahabs besatthet att jaga den vita kaskelotvalen Moby Dick, en allegori över mänsklig hämnd och naturens krafter.",
+        "amazon_link": "https://amzn.to/4k9kLp4",
+        "image": "mobyDickBook.jpg"
+    },
+    {
+        "id": "40",
+        "title": "Den store Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "En klassisk amerikansk roman som skildrar den gåtfulle miljonären Jay Gatsby och hans tragiska strävan efter den förlorade kärleken Daisy, i 1920-talets flärdfulla USA.",
+        "amazon_link": "https://amzn.to/3HXZVvw",
+        "image": "DenStoreGatsbyBook.jpg"
+    },
+    {
+        "id": "41",
+        "title": "Om möss och människor",
+        "author": "John Steinbeck",
+        "description": "En kortroman om två migrerande lantarbetare under depressionen i Kalifornien, och deras dröm om ett eget litet jordbruk som utmanas av ödet.",
+        "amazon_link": "https://amzn.to/44xvghb",
+        "image": "omMossOchManniskorBook.jpg"
+    },
+    {
+        "id": "42",
+        "title": "Vredens druvor",
+        "author": "John Steinbeck",
+        "description": "En episk roman om familjen Joadds kamp för överlevnad under den stora depressionen i USA, när de tvingas lämna sin farm och söka ett bättre liv i Kalifornien.",
+        "amazon_link": "https://amzn.to/4ljcHTC",
+        "image": "vredensDruvorBook.jpg"
+    },
+    {
+        "id": "43",
+        "title": "På drift",
+        "author": "Jack Kerouac",
+        "description": "En ikonisk roman från beatgenerationen om Sal Paradise och Dean Moriartys rastlösa resor över USA, fylld av jazz, poesi, vänskap och sökande efter frihet.",
+        "amazon_link": "https://amzn.to/44kZ0Nh",
+        "image": "paDriftBook.jpg"
+    },
+    {
+        "id": "44",
+        "title": "Fångstmannen",
+        "author": "J.D. Salinger",
+        "description": "Svensk titel för 'The Catcher in the Rye'. En inflytelserik roman om tonåringen Holden Caulfields uppror och ensamhet i New York, och hans kritik av vuxenvärlden.",
+        "amazon_link": "https://amzn.to/4k71Jj6",
+        "image": "fangstmannenBook.jpg"
+    },
+    {
+        "id": "45",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "En gripande roman om rasism och orättvisa i den amerikanska södern under 1930-talet, berättad genom ögonen på den unga Scout Finch.",
+        "amazon_link": "https://amzn.to/4lin1uY",
+        "image": "toKillAMockingbirdBook.jpg"
+    },
+    {
+        "id": "46",
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "En dystopisk roman som skildrar ett totalitärt samhälle där Storebror övervakar allt och sanningen manipuleras, en varning för statlig kontroll.",
+        "amazon_link": "https://amzn.to/4nlI5Tk",
+        "image": "1984Book.jpg"
+    },
+    {
+        "id": "47",
+        "title": "Djurfarmen",
+        "author": "George Orwell",
+        "description": "En allegorisk satir om ett bondgårdsuppror där djuren tar över, men där idealen om frihet och jämlikhet snart korrumperas av makt och girighet.",
+        "amazon_link": "https://amzn.to/4nfxskR",
+        "image": "djurfarmenBook.jpg"
+    },
+    {
+        "id": "48",
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "description": "En klassisk roman om en grupp brittiska skolpojkar som blir strandsatta på en ö och hur deras försök att skapa ett samhälle snabbt urartar i barbari.",
+        "amazon_link": "https://amzn.to/3FYoqbn",
+        "image": "lordOfTheFliesBook.jpg"
+    },
+    {
+        "id": "49",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "description": "En dystopisk roman som skildrar ett framtida samhälle där befolkningen kontrolleras genom genmanipulation, konditionering och droger, i jakt på total lycka och stabilitet.",
+        "amazon_link": "https://amzn.to/40hYsGA",
+        "image": "braveNewWorldBook.jpg"
+    },
+    {
+        "id": "50",
+        "title": "Processen",
+        "author": "Franz Kafka",
+        "description": "En absurd och mardrömslik roman om Josef K. som vaknar upp och blir arresterad utan att veta varför, och hans fruktlösa kamp mot ett opersonligt rättssystem.",
+        "amazon_link": "https://amzn.to/3I14d5h",
+        "image": "processenBook.jpg"
+    },
+    {
+        "id": "51",
+        "title": "Förvandlingen",
+        "author": "Franz Kafka",
+        "description": "En känd novell om Gregor Samsa som en morgon vaknar upp och upptäcker att han har förvandlats till en jättelik insekt, och familjens reaktioner på hans förvandling.",
+        "amazon_link": "https://amzn.to/3I14d5h",
+        "image": "forvandlingenBook.jpg"
+    },
+    {
+        "id": "52",
+        "title": "Brott och straff",
+        "author": "Fjodor Dostojevskij",
+        "description": "En psykologisk roman om en fattig student i S:t Petersburg som begår ett mord och brottas med skuld, moral och sökandet efter försoning.",
+        "amazon_link": "https://amzn.to/3I0lifB",
+        "image": "brottOchStraffBook.jpg"
+    },
+    {
+        "id": "53",
+        "title": "Idioten",
+        "author": "Fjodor Dostojevskij",
+        "description": "En roman om den godhjärtade furst Mysjkin, en 'fullkomligt vacker människa', och hans försök att navigera i det korrupta ryska samhället, vilket leder till tragedi.",
+        "amazon_link": "https://amzn.to/4kXNs9w",
+        "image": "idiotenBook.jpg"
+    },
+    {
+        "id": "54",
+        "title": "Krig och fred",
+        "author": "Lev Tolstoj",
+        "description": "Ett mästerverk som skildrar Napoleontidens Ryssland genom ödena för flera aristokratiska familjer, en episk berättelse om kärlek, krig och filosofi.",
+        "amazon_link": "https://amzn.to/440J1oz",
+        "image": "krigOchFredBook.jpg"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Lev Tolstoj",
+        "description": "En tragisk roman om den gifta Anna Kareninas passionerade kärlekshistoria med officeren Vronskij, och hennes kamp mot samhällets fördomar i 1800-talets Ryssland.",
+        "amazon_link": "https://www.amazon.se/s?k=Anna+Karenina+Lev+Tolstoj"
+    },
+    {
+        "id": "55",
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "description": "En realistisk roman om Emma Bovary, en ung kvinna som drömmer om ett romantiskt liv men vars äktenskap och tillvaro inte lever upp till hennes ideal, vilket leder till katastrof.",
+        "amazon_link": "https://amzn.to/4liYJB8",
+        "image": "madameBovaryBook.jpg"
+    },
+    {
+        "title": "Greven av Monte Cristo",
+        "author": "Alexandre Dumas",
+        "description": "En klassisk äventyrsroman om Edmond Dantès, som orättvist fängslas och flyr för att söka hämnd mot dem som förrådde honom, medan han upptäcker rikedom och hemligheter.",
+        "amazon_link": "https://www.amazon.se/s?k=Greven+av+Monte+Cristo+Alexandre+Dumas"
+    },
+    {
+        "id": "56",
+        "title": "De tre musketörerna",
+        "author": "Alexandre Dumas",
+        "description": "En äventyrsroman som följer den unge D'Artagnan och hans vänner, de tre musketörerna Athos, Porthos och Aramis, i kampen mot kardinal Richelieu i 1600-talets Frankrike.",
+        "amazon_link": "https://amzn.to/3THP8bf",
+        "image": "deTreMusketorernaBook.jpg"
+    },
+    {
+        "id": "57",
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "description": "Ett episk verk om rättvisa, moral och försoning i 1800-talets Frankrike, med Jean Valjean som huvudperson i en lång kamp för frihet och ett värdigt liv.",
+        "amazon_link": "https://amzn.to/4k6h1Vd",
+        "image": "lesMiserablesBook.jpg"
+    },
+    {
+        "id": "58",
+        "title": "Målade slöjan",
+        "author": "W. Somerset Maugham",
+        "description": "En roman om Kitty Fane, som flyttar till en koleradrabbad by i Kina med sin man efter att ha blivit avslöjad med en affär, och hennes resa mot självinsikt och försoning.",
+        "amazon_link": "https://amzn.to/3I12Zak",
+        "image": "maladeSlojanBook.jpg"
+    },
+    {
+        "id": "59",
+        "title": "Gamle och havet",
+        "author": "Ernest Hemingway",
+        "description": "En kortroman om en gammal kubansk fiskare, Santiago, och hans episka kamp mot en enorm marlin, en berättelse om uthållighet, stolthet och naturens kraft.",
+        "amazon_link": "https://amzn.to/44AL17a",
+        "image": "gamleOchHavetBook.jpg"
+    },
+    {
+        "id": "60",
+        "title": "Klockan klämtar för dig",
+        "author": "Ernest Hemingway",
+        "description": "En krigsroman som utspelar sig under spanska inbördeskriget, om en amerikansk sabotageexpert som ansluter sig till en gerillagrupp och finner kärlek och mening i kampen.",
+        "amazon_link": "https://amzn.to/3TvVDOB",
+        "image": "klockanKlamtarForDigBook.jpg"
+    },
+    {
+        "id": "61",
+        "title": "Den lilla prinsen",
+        "author": "Antoine de Saint-Exupéry",
+        "description": "En poetisk och filosofisk saga om en pilot som kraschlandar i öknen och möter en liten prins från en annan planet, som lär honom om kärlek, vänskap och livets mening.",
+        "amazon_link": "https://amzn.to/3Tawf0A",
+        "image": "denLillaPrinsenBook.jpg"
+    },
+    {
+        "title": "Anne Franks dagbok",
+        "author": "Anne Frank",
+        "description": "Den autentiska dagboken skriven av en ung judisk flicka som gömde sig undan nazisterna under andra världskriget, en gripande skildring av hopp och förtvivlan.",
+        "amazon_link": "https://www.amazon.se/s?k=Anne+Franks+dagbok+Anne+Frank"
+    },
+    {
+        "id": "62",
+        "title": "Drakryttarna i Pern: Draken flyger",
+        "author": "Anne McCaffrey",
+        "description": "Den första romanen i den klassiska Pern-serien, en science fiction-saga om en planet där människor rider på intelligenta drakar för att bekämpa ett dödligt hot från rymden.",
+        "amazon_link": "https://amzn.to/4elJ5Ta",
+        "image": "drakryttarnaIPernBook.jpg"
+    },
+    {
+        "id": "63",
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "description": "En episk science fiction-roman som utspelar sig på ökenplaneten Arrakis, där krig utbryter över kontrollen av en värdefull krydda och en profetisk messias uppstår.",
+        "amazon_link": "https://amzn.to/4443gle",
+        "image": "duneBook.jpg"
+    },
+    {
+        "id": "64",
+        "title": "Sagan om ringen",
+        "author": "J.R.R. Tolkien",
+        "description": "En tidlös fantasyklassiker om hobbiten Frodo Baggins farliga uppdrag att förstöra den mäktiga Härskarringen och rädda Midgård från den mörke härskaren Sauron.",
+        "amazon_link": "https://amzn.to/4kXOmTs",
+        "image": "saganOmRingenBook.jpg"
+    },
+    {
+        "id": "65",
+        "title": "Liftarens guide till galaxen",
+        "author": "Douglas Adams",
+        "description": "En kultklassiker inom science fiction-komedin om Arthur Dent som överlever jordens förstörelse och ger sig ut på ett absurt och humoristiskt rymdäventyr.",
+        "amazon_link": "https://amzn.to/44jDPLw",
+        "image": "liftarensGuideTillGalaxenBook.jpg"
+    },
+    {
+        "id": "66",
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "description": "En banbrytande cyberpunkroman som skapade genren, om en utsliten hacker i en högteknologisk framtid som får en sista chans att utföra en omöjlig uppgift.",
+        "amazon_link": "https://amzn.to/442XvV1",
+        "image": "neuromancerBook.jpg"
+    },
+    {
+        "id": "67",
+        "title": "Ensamhetens hundra år",
+        "author": "Gabriel García Márquez",
+        "description": "En magisk realistisk roman som följer familjen Buendías generationer i den mytiska byn Macondo, en episk berättelse om kärlek, krig och ensamhet.",
+        "amazon_link": "https://amzn.to/3T7wOZ1",
+        "image": "ensamhetensHundraArBook.jpg"
+    },
+    {
+        "id": "68",
+        "title": "Kärlek i kolerans tid",
+        "author": "Gabriel García Márquez",
+        "description": "En romantisk roman om Floreno Arizas outtröttliga kärlek till Fermina Daza under mer än femtio år, en hyllning till tidens och passionens kraft.",
+        "amazon_link": "https://amzn.to/4erKoAm",
+        "image": "karlekIKoleransTidBook.jpg"
+    },
+    {
+        "id": "69",
+        "title": "Alkemisten",
+        "author": "Paulo Coelho",
+        "description": "En inspirerande allegori om en andalusisk herdepojke som reser till Egypten i jakt på en skatt, och på vägen upptäcker meningen med sitt liv och sina drömmar.",
+        "amazon_link": "https://amzn.to/45H7ujX",
+        "image": "alkemistenBook.jpg"
+    },
+    {
+        "id": "70",
+        "title": "Brideshead Revisited",
+        "author": "Evelyn Waugh",
+        "description": "En brittisk klassiker som skildrar den aristokratiska familjen Flyte och deras excentriska liv på Brideshead herrgård, sedd genom en utomståendes ögon.",
+        "amazon_link": "https://amzn.to/3HTcNmH",
+        "image": "bridesheadRevisitedBook.jpg"
+    },
+    {
+        "id": "71",
+        "title": "Rebecca",
+        "author": "Daphne du Maurier",
+        "description": "En gotisk roman om en ung kvinna som gifter sig med den mystiske Maxim de Winter och flyttar in på Manderley, där hon lever i skuggan av hans döda första fru, Rebecca.",
+        "amazon_link": "https://amzn.to/40cBO2z",
+        "image": "rebeccaBook.jpg"
+    },
+    {
+        "id": "72",
+        "title": "Mästerverket",
+        "author": "Emile Zola",
+        "description": "En naturalistisk roman som skildrar den parisiska konstvärlden och den tragiska kampen för en ung konstnär att skapa ett mästerverk.",
+        "amazon_link": "https://amzn.to/4liqhGI",
+        "image": "masterverketBook.jpg"
+    },
+    {
+        "id": "73",
+        "title": "Germinal",
+        "author": "Emile Zola",
+        "description": "En socialrealistisk roman om kolgruvearbetarnas hårda liv i 1800-talets Frankrike, och deras desperata kamp för bättre villkor och rättvisa.",
+        "amazon_link": "https://amzn.to/4kd0JtT",
+        "image": "germinalBook.jpg"
+    },
+    {
+        "id": "74",
+        "title": "Hundra år av ensamhet",
+        "author": "Gabriel García Márquez",
+        "description": "Svensk titel för 'One Hundred Years of Solitude'. En episk roman som följer familjen Buendías generationer i den mytiska byn Macondo, en berättelse om kärlek, krig och ensamhet.",
+        "amazon_link": "https://amzn.to/3FWlXyb",
+        "image": "hundraArAvEnsamhetBook.jpg"
+    },
+    {
+        "id": "75",
+        "title": "Karamazov-bröderna",
+        "author": "Fjodor Dostojevskij",
+        "description": "En komplex roman om mordet på en patriark och de tre brödernas kamp med tro, moral och faderskap, en djupdykning i mänsklig psykologi.",
+        "amazon_link": "https://amzn.to/4ni2KaK",
+        "image": "karamazovBrodernaBook.jpg"
+    },
+    {
+        "id": "76",
+        "title": "Den hemlighetsfulle främlingen",
+        "author": "Mark Twain",
+        "description": "En mörk och filosofisk roman som utforskar moral, religion och människans natur genom en mystisk främlings påverkan på en by.",
+        "amazon_link": "https://amzn.to/4lirKNe",
+        "image": "denHemlighetsfulleFramlingenBook.jpg"
+    },
+    {
+        "id": "77",
+        "title": "Den unge Werthers lidanden",
+        "author": "Johann Wolfgang von Goethe",
+        "description": "En epistelroman som skildrar den unge Werthers obesvarade kärlek och hans tragiska öde, en nyckelroman inom den tyska Sturm und Drang-rörelsen.",
+        "amazon_link": "https://amzn.to/3FYSsvE",
+        "image": "denUngeWerthersLidandenBook.jpg"
+    },
+    {
+        "id": "78",
+        "title": "Don Quijote",
+        "author": "Miguel de Cervantes",
+        "description": "En av världslitteraturens stora klassiker om den ädle riddaren Don Quijote som ger sig ut på äventyr, en satirisk och filosofisk berättelse om idealism och verklighet.",
+        "amazon_link": "https://amzn.to/44ybQZA",
+        "image": "donQuijoteBook.jpg"
+    },
+    {
+        "id": "79",
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "description": "En modernistisk roman som följer Leopold Blooms vandring genom Dublin under en enda dag, känd för sin komplexa struktur och ström-av-medvetande-teknik.",
+        "amazon_link": "https://amzn.to/45CaYUV",
+        "image": "ulyssesBook.jpg"
+    },
+    {
+        "id": "80",
+        "title": "Mrs Dalloway",
+        "author": "Virginia Woolf",
+        "description": "En roman som skildrar en dag i Clarissa Dalloways liv i London, med djupdykningar i hennes inre tankar och reflektioner över tid, minne och samhället.",
+        "amazon_link": "https://amzn.to/44zlHhU",
+        "image": "mrsDallowayBook.jpg"
+    },
+    {
+        "id": "81",
+        "title": "Mot fyren",
+        "author": "Virginia Woolf",
+        "description": "En modernistisk roman som utforskar familjerelationer, tidens gång och konstens roll genom en familjs besök på Isle of Skye och en fyrtur.",
+        "amazon_link": "https://amzn.to/4npsJgM",
+        "image": "motFyrenBook.jpg"
+    },
+    {
+        "id": "82",
+        "title": "Ett eget rum",
+        "author": "Virginia Woolf",
+        "description": "En essä som utforskar kvinnors roll i litteraturen och samhället, och argumenterar för att kvinnor behöver både ekonomisk frihet och ett eget utrymme för att skapa.",
+        "amazon_link": "https://amzn.to/4ltsRdl",
+        "image": "ettEgetRumBook.jpg"
+    },
+    {
+        "id": "83",
+        "title": "Den goda jorden",
+        "author": "Pearl S. Buck",
+        "description": "En roman som skildrar en kinesisk bondfamiljs kamp för överlevnad och välstånd under tidigt 1900-tal, med fokus på familjeband, arbete och landets cykler.",
+        "amazon_link": "https://amzn.to/3GaIiIo",
+        "image": "denGodaJordenBook.jpg"
+    },
+    {
+        "id": "84",
+        "title": "Vägen",
+        "author": "Cormac McCarthy",
+        "description": "En postapokalyptisk roman om en far och son som vandrar genom ett ödelagt USA i jakt på överlevnad och mänsklighet, en mörk och gripande berättelse.",
+        "amazon_link": "https://amzn.to/3ZOeecb",
+        "image": "vagenBook.jpg"
+    },
+    {
+        "id": "85",
+        "title": "Blodets meridian",
+        "author": "Cormac McCarthy",
+        "description": "En våldsam och brutal westernroman som skildrar en ung mans deltagande i en grupp skalperare på den amerikanska gränsen, en mörk reflektion över ondska.",
+        "amazon_link": "https://amzn.to/4k8LbqQ",
+        "image": "blodetsMeridianBook.jpg"
+    },
+    {
+        "id": "86",
+        "title": "Allt sönderfaller",
+        "author": "Chinua Achebe",
+        "description": "En klassisk afrikansk roman som skildrar livet i en Igbo-by i Nigeria före och under den europeiska koloniseringen, och hur traditionella kulturer krossas.",
+        "amazon_link": "https://amzn.to/44kesJc",
+        "image": "alltSonderfallerBook.jpg"
+    },
+    {
+        "id": "87",
+        "title": "Solen har sin gång",
+        "author": "Ernest Hemingway",
+        "description": "En roman som skildrar en grupp amerikanska och brittiska ex-pater i Paris och deras resa till Spanien för att uppleva tjurfäktning, en berättelse om den 'förlorade generationen'.",
+        "amazon_link": "https://amzn.to/3TOhmB7",
+        "image": "solenHarSinGangBook.jpg"
+    },
+    {
+        "id": "88",
+        "title": "På vägen",
+        "author": "Jack Kerouac",
+        "description": "Svensk titel för 'On the Road'. En ikonisk roman från beatgenerationen om Sal Paradise och Dean Moriartys rastlösa resor över USA, fylld av jazz, poesi och frihetssökande.",
+        "amazon_link": "https://amzn.to/4ngHSkp",
+        "image": "paVagenBook.jpg"
+    },
+    {
+        "id": "89",
+        "title": "Breakfast at Tiffany's",
+        "author": "Truman Capote",
+        "description": "En charmig och melankolisk novell om den excentriska Holly Golightly, en ung kvinna i New York som söker lycka och tillhörighet, och hennes relation med en ung författare.",
+        "amazon_link": "https://amzn.to/4k51d57",
+        "image": "breakfastAtTiffanysBook.jpg"
+    },
+    {
+        "id": "90",
+        "title": "Slakthus 5",
+        "author": "Kurt Vonnegut",
+        "description": "En satirisk anti-krigsroman som följer Billy Pilgrims tidsresor och upplevelser under bombningen av Dresden, en mörk och humoristisk kritik av krig och öde.",
+        "amazon_link": "https://amzn.to/3ZLIdBt",
+        "image": "slakthus5Book.jpg"
+    },
+    {
+        "id": "91",
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "description": "En satirisk roman som skildrar den absurda byråkratin och galenskapen i krig genom en grupp amerikanska flygare under andra världskriget.",
+        "amazon_link": "https://amzn.to/3GdTioh",
+        "image": "catch22Book.jpg"
+    },
+    {
+        "id": "92",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "description": "En dystopisk roman som skildrar ett framtida samhälle där böcker är förbjudna och bränns, och en brandmans uppvaknande till sanningen.",
+        "amazon_link": "https://amzn.to/4lnJVkL",
+        "image": "fahrenheit451Book.jpg"
+    },
+    {
+        "id": "93",
+        "title": "A Wrinkle in Time",
+        "author": "Madeleine L'Engle",
+        "description": "En klassisk fantasy- och science fiction-roman för unga vuxna, om en flicka som reser genom tid och rum för att rädda sin far och universum.",
+        "amazon_link": "https://amzn.to/40qCIZ4",
+        "image": "aWrinkleInTimeBook.jpg"
+    },
+    {
+        "id": "94",
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "description": "En semi-självbiografisk roman om en ung kvinnas kamp med psykisk sjukdom och identitet under sommaren 1953 i New York City.",
+        "amazon_link": "https://amzn.to/442UPqv",
+        "image": "theBellJarBook.jpg"
+    },
+    {
+        "id": "95",
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "description": "En kontroversiell men stilistiskt briljant roman om Humbert Humberts besatthet av den unga flickan Lolita, en mörk utforskning av begär och moral.",
+        "amazon_link": "https://amzn.to/449WdGk",
+        "image": "lolitaBook.jpg"
+    },
+    {
+        "id": "96",
+        "title": "Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "description": "Engelsk titel för 'Liftarens guide till galaxen'. En humoristisk science fiction-klassiker om en jordbo och hans utomjordiska vänners galaktiska äventyr.",
+        "amazon_link": "https://amzn.to/3HX0gyt",
+        "image": "hitchhikersGuideToTheGalaxyBook.jpg"
+    },
+    {
+        "id": "97",
+        "title": "Det stora förbudet",
+        "author": "Dashiell Hammett",
+        "description": "En hårdkokt detektivroman som skildrar korruption och kriminalitet i en fiktiv stad, med en cynisk privatdetektiv som navigerar genom en mörk värld.",
+        "amazon_link": "https://amzn.to/3IeCj5K",
+        "image": "detStoraForbudetBook.jpg"
+    },
+    {
+        "id": "98",
+        "title": "Körkarlen",
+        "author": "Selma Lagerlöf",
+        "description": "En spöklik saga som utspelar sig på nyårsafton, där en man tvingas köra Dödens vagn och reflektera över sitt liv och sina misstag.",
+        "amazon_link": "https://amzn.to/3I0W2Wt",
+        "image": "korKarlanBook.jpg"
+    },
+    {
+        "id": "99",
+        "title": "Orlando",
+        "author": "Virginia Woolf",
+        "description": "En fantasifull roman som följer Orlando genom flera århundraden och kön, en lekfull utforskning av identitet, tid och könens flytande natur.",
+        "amazon_link": "https://amzn.to/4l3c8xA",
+        "image": "orlandoBook.jpg"
+    },
+    {
+        "id": "100",
+        "title": "Moominland Midwinter",
+        "author": "Tove Jansson",
+        "description": "En Mumindalsberättelse där Muminpappan vaknar mitt i vintern och utforskar en okänd, kall och magisk Mumindal, en berättelse om ensamhet och upptäckter.",
+        "amazon_link": "https://amzn.to/4l4yOgU",
+        "image": "moominlandMidwinterBook.jpg"
+    },
+    {
+        "id": "101",
+        "title": "Där kräftorna sjunger",
+        "author": "Delia Owens",
+        "description": "En fängslande berättelse om den unga Kya, 'Träskflickan', som växer upp ensam i North Carolinas vildmark och blir misstänkt för ett mord.",
+        "amazon_link": "https://amzn.to/44iJwcj",
+        "image": "darKraftornaSjungerBook.jpg"
+    },
+    {
+        "id": "102",
+        "title": "Biblioteket vid världens ände",
+        "author": "Matt Haig",
+        "description": "En fantasifull roman om Nora Seed som hamnar i ett mystiskt bibliotek mellan liv och död, där hon får chansen att utforska andra liv hon kunde ha levt.",
+        "amazon_link": "https://amzn.to/3FZ0cOe",
+        "image": "biblioteketVidVarldensAndeBook.jpg"
+    },
+    {
+        "id": "103",
+        "title": "Ett litet liv",
+        "author": "Hanya Yanagihara",
+        "description": "En djupt gripande och smärtsam roman som följer fyra vänners liv i New York, med fokus på trauman, vänskap och sökandet efter mening.",
+        "amazon_link": "https://amzn.to/3HXUaOt",
+        "image": "ettLitetLivBook.jpg"
+    },
+    {
+        "id": "104",
+        "title": "Normala människor",
+        "author": "Sally Rooney",
+        "description": "En modern kärlekshistoria om Connell och Marianne, som följer deras komplexa relation genom universitetsåren och vuxenlivet i Irland.",
+        "amazon_link": "https://amzn.to/45MCCyJ",
+        "image": "normalaManniskorBook.jpg"
+    },
+    {
+        "id": "105",
+        "title": "Samtal med vänner",
+        "author": "Sally Rooney",
+        "description": "En debutroman som utforskar vänskap, kärlek och sexualitet genom två unga kvinnors relationer med ett äldre gift par i Dublin.",
+        "amazon_link": "https://amzn.to/4kausDI",
+        "image": "samtalMedVannerBook.jpg"
+    },
+    {
+        "id": "106",
+        "title": "Cirkeln",
+        "author": "Mats Strandberg & Sara Bergmark Elfgren",
+        "description": "Den första delen i Engelsforstrilogin, en svensk urban fantasy om sex tonårsflickor med magiska krafter som måste rädda världen från en uråldrig ondska.",
+        "amazon_link": "https://amzn.to/4luq9V0",
+        "image": "cirkelnBook.jpg"
+    },
+    {
+        "id": "107",
+        "title": "Nyckeln",
+        "author": "Mats Strandberg & Sara Bergmark Elfgren",
+        "description": "Den avslutande delen i Engelsforstrilogin, där flickornas kamp når sin kulmen och de ställs inför den ultimata striden för att rädda världen.",
+        "amazon_link": "https://amzn.to/4nssVMf",
+        "image": "nyckelnBook.jpg"
+    },
+    {
+        "id": "108",
+        "title": "Americanah",
+        "author": "Chimamanda Ngozi Adichie",
+        "description": "En roman som följer Ifemelu, en ung nigeriansk kvinna som flyttar till USA för att studera och utforskar frågor om ras, identitet och hemhörighet.",
+        "amazon_link": "https://amzn.to/45HuC1S",
+        "image": "americanahBook.jpg"
+    },
+    {
+        "id": "109",
+        "title": "En halv gul sol",
+        "author": "Chimamanda Ngozi Adichie",
+        "description": "En historisk roman som skildrar Biafrakriget i Nigeria genom ödena för två systrar och en ung brittisk man, en berättelse om kärlek, krig och överlevnad.",
+        "amazon_link": "https://amzn.to/4k32edT",
+        "image": "enHalvGulSolBook.jpg"
+    },
+    {
+        "id": "110",
+        "title": "The Guest List",
+        "author": "Lucy Fokley",
+        "description": "En spänningsroman som utspelar sig under ett lyxbröllop på en avlägsen irländsk ö, där en gäst hittas mördad och hemligheter avslöjas.",
+        "amazon_link": "https://amzn.to/4kdfjS2",
+        "image": "theGuestListBook.jpg"
+    },
+    {
+        "id": "111",
+        "title": "Mytologin",
+        "author": "Stephen Fry",
+        "description": "En humoristisk och lärorik återberättelse av den grekiska mytologin, där gudar och hjältar får nytt liv med Fry's karakteristiska kvickhet.",
+        "amazon_link": "https://amzn.to/4kdb8pr",
+        "image": "mytologinBook.jpg"
+    },
+    {
+        "id": "112",
+        "title": "Circe",
+        "author": "Madeline Miller",
+        "description": "En episk roman som återberättar den grekiska myten om häxan Kirke, dotter till Helios, och hennes ensamma liv och kraftfulla magi.",
+        "amazon_link": "https://amzn.to/4lpxB3l",
+        "image": "circeBook.jpg"
+    },
+    {
+        "id": "113",
+        "title": "Sången om Akilles",
+        "author": "Madeline Miller",
+        "description": "En poetisk och gripande återberättelse av Iliaden, med fokus på den passionerade kärlekshistorien mellan Akilles och Patroklos.",
+        "amazon_link": "https://amzn.to/44q7WRt",
+        "image": "sangenOmAkillesBook.jpg"
+    },
+    {
+        "id": "114",
+        "title": "Sju systrar-serien (första boken)",
+        "author": "Lucinda Riley",
+        "description": "Den första delen i en populär serie som följer Maia och hennes systrar när de reser jorden runt för att lösa mysteriet med sin adoptivfars bortgång.",
+        "amazon_link": "https://amzn.to/3I0ypgK",
+        "image": "sjuSystrarBook.jpg"
+    },
+    {
+        "id": "115",
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "description": "En fantasifull roman om en kvinna som får en andra chans att ångra sina livsval i ett mystiskt bibliotek mellan liv och död.",
+        "amazon_link": "https://amzn.to/4kavK1w",
+        "image": "theMidnightLibraryBook.jpg"
+    },
+    {
+        "id": "116",
+        "title": "Klubben",
+        "author": "Matilda Gustavsson",
+        "description": "En journalistisk bok som gräver djupt i kulturvärlden och skildrar skandalen kring en välkänd kulturinstitution, med fokus på makt, övergrepp och tystnadskultur.",
+        "amazon_link": "https://amzn.to/40nghnD",
+        "image": "klubbenBook.jpg"
+    },
+    {
+        "id": "117",
+        "title": "Shuggie Bain",
+        "author": "Douglas Stuart",
+        "description": "En Pulitzerprisvinnande roman som skildrar den unga Shuggies uppväxt med sin alkoholiserade mor i 1980-talets Glasgow, en hjärtskärande berättelse om kärlek och misär.",
+        "amazon_link": "https://amzn.to/4ltoM8Y",
+        "image": "shuggieBainBook.jpg"
+    },
+    {
+        "id": "118",
+        "title": "Red, White & Royal Blue",
+        "author": "Casey McQuiston",
+        "description": "En romantisk komedi om den amerikanske presidentens son och en brittisk prins som tvingas fejka vänskap för offentlighetens skull, men som snart utvecklar äkta känslor.",
+        "amazon_link": "https://amzn.to/4l4AlUc",
+        "image": "redWhiteRoyalBlueBook.jpg"
+    },
+    {
+        "id": "119",
+        "title": "Fjärilsvägen",
+        "author": "Patrik Lundberg",
+        "description": "En självbiografisk roman som skildrar författarens uppväxt och kamp för att bryta sig loss från fattigdom och missförhållanden, en berättelse om klass och drömmar.",
+        "amazon_link": "https://amzn.to/46dIaCg",
+        "image": "fjarlisvagenBook.jpg"
+    },
+    {
+        "id": "120",
+        "title": "Min europeiska familj: De senaste 54 000 åren",
+        "author": "Karin Bojs",
+        "description": "En populärvetenskaplig bok som genom DNA-forskning utforskar Europas historia och våra förfäders vandringar och liv över årtusenden.",
+        "amazon_link": "https://amzn.to/4lpzQDS",
+        "image": "minEuropeiskaFamiljBook.jpg"
+    },
+    {
+        "id": "121",
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "description": "En science fiction-roman som utspelar sig i en dystopisk framtid där människor flyr verkligheten i en virtuell värld, Oasis, och en jakt på en gömd skatt.",
+        "amazon_link": "https://amzn.to/3HYeIq2",
+        "image": "readyPlayerOneBook.jpg"
+    },
+    {
+        "id": "122",
+        "title": "Djävulen bär Prada",
+        "author": "Lauren Weisberger",
+        "description": "En humoristisk roman som ger en inblick i den glamorösa men brutala modevärlden genom en ung assistents ögon som arbetar för en fruktad chefredaktör.",
+        "amazon_link": "https://amzn.to/4l3eBYS",
+        "image": "djavulenBarPradaBook.jpg"
+    },
+    {
+        "id": "123",
+        "title": "Livet efter dig",
+        "author": "Jojo Moyes",
+        "description": "En romantisk och tårfylld roman om Lou Clark som får jobb som assistent åt en förmögen man som blivit förlamad, och deras oväntade relation.",
+        "amazon_link": "https://amzn.to/440W0Xl",
+        "image": "livetEfterDigBook.jpg"
+    },
+    {
+        "id": "124",
+        "title": "En julsaga",
+        "author": "Charles Dickens",
+        "description": "Den klassiska julsagan om den snåle Ebenezer Scrooge som får besök av tre andar på julafton och får en chans att ändra sitt liv.",
+        "amazon_link": "https://amzn.to/3ZLdcxC",
+        "image": "enJulsagaBook.jpg"
+    },
+    {
+        "id": "125",
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "description": "En psykologisk thriller om en man vars fru försvinner på deras bröllopsdag, och de mörka hemligheter och lögner som avslöjas i deras äktenskap.",
+        "amazon_link": "https://amzn.to/4ljs6mU",
+        "image": "goneGirlBook.jpg"
+    },
+    {
+        "id": "126",
+        "title": "Flickan med tatueringen",
+        "author": "Stieg Larsson",
+        "description": "Den första delen i Millennium-serien, en svensk kriminalroman om journalisten Mikael Blomkvist och hackern Lisbeth Salander som utreder ett försvinnande.",
+        "amazon_link": "https://amzn.to/4ljsfXu",
+        "image": "flickanMedTatueringenBook.jpg"
+    },
+    {
+        "id": "127",
+        "title": "Stormsystern",
+        "author": "Lucinda Riley",
+        "description": "Den andra delen i Sju systrar-serien, som följer Ally D'Aplièse i jakten på sin biologiska bakgrund, vilket leder henne till Norge och en musikalisk släkthistoria.",
+        "amazon_link": "https://amzn.to/4lobSsF",
+        "image": "stormsysternBook.jpg"
+    },
+    {
+        "id": "128",
+        "title": "Den förlorade systern",
+        "author": "Lucinda Riley",
+        "description": "Den sjunde boken i Sju systrar-serien, där systrarna samarbetar för att hitta sin försvunna syster och nysta upp familjens sista hemligheter.",
+        "amazon_link": "https://amzn.to/3I0zAwL",
+        "image": "denForloradeSysternBook.jpg"
+    },
+    {
+        "id": "129",
+        "title": "Ensam i Berlin",
+        "author": "Hans Fallada",
+        "description": "En gripande roman baserad på en sann historia om ett par som utför motståndshandlingar mot nazistregimen i Berlin under andra världskriget.",
+        "amazon_link": "https://amzn.to/4ehmlUo",
+        "image": "ensamIBerlinBook.jpg"
+    },
+    {
+        "id": "130",
+        "title": "Den osynliga bron",
+        "author": "Julie Orringer",
+        "description": "En historisk roman om en ung judisk medicinstudent som flyr från Ungern till Paris före andra världskriget, och hans kamp för överlevnad och kärlek.",
+        "amazon_link": "https://amzn.to/44BcFkk",
+        "image": "denOsynligaBronBook.jpg"
+    },
+    {
+        "id": "132",
+        "title": "Bränn alla mina brev",
+        "author": "Alex Schulman",
+        "description": "En självbiografisk roman där författaren utforskar sin familjehistoria och en gammal kärleksaffär för att förstå sina föräldrars relation och sitt eget liv.",
+        "amazon_link": "https://amzn.to/3TOpKR7",
+        "image": "brannAllaMinaBrevBook.jpg"
+    },
+    {
+        "id": "133",
+        "title": "Överlevarna",
+        "author": "Alex Schulman",
+        "description": "En psykologisk roman om tre bröder som återförenas i sitt barndoms sommarhus och tvingas konfrontera trauman och hemligheter från det förflutna.",
+        "amazon_link": "https://amzn.to/44fOu9S",
+        "image": "overlevarnaBook.jpg"
+    },
+    {
+        "id": "134",
+        "title": "Dit floden för dig",
+        "author": "Shelley Read",
+        "description": "En gripande historisk roman som utspelar sig i Colorados vildmark, om en kvinna som tvingas fly och bygga ett nytt liv i naturen, en berättelse om styrka och överlevnad.",
+        "amazon_link": "https://amzn.to/44yDntX",
+        "image": "ditFlodenForDigBook.jpg"
+    },
+    {
+        "id": "135",
+        "title": "De åtta bergen",
+        "author": "Paolo Cognetti",
+        "description": "En vacker roman om vänskapen mellan två pojkar som växer upp i italienska Alperna, en berättelse om naturen, friheten och sökandet efter sin plats.",
+        "amazon_link": "https://amzn.to/3TK2VOw",
+        "image": "deAttaBergenBook.jpg"
+    },
+    {
+        "id": "136",
+        "title": "Elefanten som så gärna ville somna",
+        "author": "Carl-Johan Forssén Ehrlin",
+        "description": "En populär barnbok som använder psykologiska tekniker för att hjälpa barn att somna, med en lugnande berättelse om en trött elefant.",
+        "amazon_link": "https://amzn.to/4nkCtZx",
+        "image": "elefantenSomSaknarSinaVannerBook.jpg"
+    },
+    {
+        "id": "137",
+        "title": "Den tyska flickan",
+        "author": "Armando Lucas Correa",
+        "description": "En historisk roman baserad på sanna händelser om en judisk flicka som flyr från nazisternas Tyskland på fartyget S:t Louis, och hennes öde.",
+        "amazon_link": "https://amzn.to/44xmD6m",
+        "image": "denTyskaFlickanBook.jpg"
+    },
+    {
+        "id": "138",
+        "title": "Djävulen och fröken Prym",
+        "author": "Paulo Coelho",
+        "description": "En allegorisk roman om en liten by som utsätts för ett moraliskt experiment av en främling, vilket tvingar invånarna att konfrontera sin egen ondska och godhet.",
+        "amazon_link": "https://amzn.to/4427PfR",
+        "image": "djavulenOchFrokenPrymBook.jpg"
+    },
+    {
+        "id": "139",
+        "title": "Stalker",
+        "author": "Lars Kepler",
+        "description": "En thriller i Joona Linna-serien, där en serie brutala mord kopplas till en stalker och polisen måste samarbeta med en psykoterapeut för att stoppa mördaren.",
+        "amazon_link": "https://amzn.to/4eiC4Te",
+        "image": "stalkerBook.jpg"
+    },
+    {
+        "id": "140",
+        "title": "En bur av guld",
+        "author": "Camilla Läckberg",
+        "description": "En spänningsroman om Faye som tar hämnd på sin ex-make och bygger upp ett eget imperium, en berättelse om styrka, svek och entreprenörskap.",
+        "amazon_link": "https://amzn.to/4nlYFm2",
+        "image": "enBurAvGuldBook.jpg"
+    },
+    {
+        "id": "141",
+        "title": "Det",
+        "author": "Stephen King",
+        "description": "En episk skräckroman om en grupp vänner som återvänder till sin hemstad för att besegra ett uråldrigt ont väsen, 'Det', som terroriserade dem som barn.",
+        "amazon_link": "https://amzn.to/3TdQnii",
+        "image": "detBook.jpg"
+    },
+    {
+        "id": "142",
+        "title": "Misery",
+        "author": "Stephen King",
+        "description": "En psykologisk thriller om en författare som räddas efter en bilolycka av sin största fan, som visar sig vara en psykopatisk kvinna som håller honom fången.",
+        "amazon_link": "https://amzn.to/3Gg6FEo",
+        "image": "miseryBook.jpg"
+    },
+    {
+        "id": "143",
+        "title": "Den hemliga historien",
+        "author": "Donna Tartt",
+        "description": "En mörk akademisk roman som följer en grupp klassikerstudenter vid ett elituniversitet som blir indragna i ett mord, en berättelse om intellektuell arrogans och moraliskt förfall.",
+        "amazon_link": "https://amzn.to/3I0rYuj",
+        "image": "denHemligaHistorienBook.jpg"
+    },
+    {
+        "id": "144",
+        "title": "Näktergalen",
+        "author": "Kristin Hannah",
+        "description": "En historisk roman om två systrars olika kamp för överlevnad och motstånd i det tyskockuperade Frankrike under andra världskriget.",
+        "amazon_link": "https://amzn.to/4nkzsbH",
+        "image": "naktergalenBook.jpg"
+    },
+    {
+        "id": "145",
+        "title": "Paradiset",
+        "author": "Abdulrazak Gurnah",
+        "description": "En Nobelprisvinnande roman som skildrar den unge Yusuf som skickas bort från sin familj i Östafrika och tvingas navigera en kolonial värld.",
+        "amazon_link": "https://amzn.to/4kX3GQh",
+        "image": "paradisetBook.jpg"
+    },
+    {
+        "id": "146",
+        "title": "Varför jag skriver",
+        "author": "George Orwell",
+        "description": "En samling essäer där Orwell utforskar sina motiv för att skriva, politikens roll i litteraturen och kampen för sanning och klarhet i språket.",
+        "amazon_link": "https://amzn.to/3Gl2APf",
+        "image": "varforJagSkriverBook.jpg"
+    },
+    {
+        "id": "147",
+        "title": "Sagan om is och eld: Svärdets makt",
+        "author": "George R.R. Martin",
+        "description": "Den tredje boken i den episka fantasyserien som inspirerade Game of Thrones, fylld av intriger, krig och drakar i en brutal medeltidsinspirerad värld.",
+        "amazon_link": "https://amzn.to/44lhEEL",
+        "image": "saganOmIsOchEldSvardetsMaktBook.jpg"
+    },
+    {
+        "id": "148",
+        "title": "En berättelse om två städer",
+        "author": "Charles Dickens",
+        "description": "En historisk roman som utspelar sig under franska revolutionen, om kärlek, uppoffring och återlösning, med den berömda inledningsfrasen 'Det var den bästa av tider, det var den sämsta av tider'.",
+        "amazon_link": "https://amzn.to/4kfpaa7",
+        "image": "enBerattelseOmTvaStaderBook.jpg"
+    },
+    {
+        "id": "149",
+        "title": "Häxan och lejonet",
+        "author": "C.S. Lewis",
+        "description": "Den första och mest kända boken i Narnia-serien, där fyra syskon upptäcker en magisk värld genom en garderob och måste rädda den från den Vita Häxan.",
+        "amazon_link": "https://amzn.to/4kUj8wF",
+        "image": "haxanOchLejonetBook.jpg"
+    },
+    {
+        "id": "150",
+        "title": "Den svarta boken",
+        "author": "Orhan Pamuk",
+        "description": "En komplex och mystisk roman som utspelar sig i Istanbul, där en man söker efter sin försvunna hustru och dras in i en labyrint av hemligheter och identiteter.",
+        "amazon_link": "https://amzn.to/4nD4KuH",
+        "image": "denSvartaBoken.jpg"
+    },
+    {
+        "id": "151",
+        "title": "Min fantastiska väninna",
+        "author": "Elena Ferrante",
+        "description": "Den första delen i Neapelkvartetten, en hyllad roman om den intensiva och komplexa vänskapen mellan Elena och Lila som växer upp i efterkrigstidens Neapel.",
+        "amazon_link": "https://amzn.to/40l2ON8",
+        "image": "minFantastiskaVaninna.jpg"
+    }
+]
