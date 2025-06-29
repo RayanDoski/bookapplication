@@ -36,8 +36,8 @@ const Questions = ({ question, options, onAnswerSelected, allAnwers }) => {
                                 }}
                                 className={`
                                     flex items-center justify-center h-50 p-6 sm:p-8 md:p-10 lg:p-12
-                                    text-sm sm:text-2xl font-semibold text-[var(--white)]
-                                    border-1 border-[var(--dark-gray)] shadow-md
+                                    text-sm sm:text-2xl font-semibold text-white
+                                    border-1 border-gray-700 shadow-md
                                     transition-all duration-200 ease-in-out transform
                                     ${isSelected
                                         ? 'bg-[var(--accent-dark)] scale-80 border-3'
