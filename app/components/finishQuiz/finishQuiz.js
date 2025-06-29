@@ -1,9 +1,8 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useQuiz } from '../hooks/useQuiz';
 
-const openQuiz = ({ answers, allQuestions }) => {
+const openQuiz = ({ handleShowResults }) => {
 
     // Använd useState för att kontrollera opaciteten
     const [isVisible, setIsVisible] = useState(false);
@@ -11,18 +10,6 @@ const openQuiz = ({ answers, allQuestions }) => {
     useEffect(() => {
         setIsVisible(true);
     }, []);
-
-    const ShowResults = () => {
-        if (answers.length === 0) {
-            alert("Du har inte besvarat några frågor än!");
-            return;
-        } else if (answers.length < allQuestions) {
-            alert("Du har inte besvarat alla frågor än!");
-            return;
-        } else {
-            alert("Dina svar har sparats! Tack för att du deltog i quizet!");
-        }
-    }
 
     return (
         <div className={`
@@ -36,7 +23,7 @@ const openQuiz = ({ answers, allQuestions }) => {
 
                 <div className='flex justify-center'>
                     <button
-                        onClick={ShowResults}
+                        onClick={() => handleShowResults()}
                         className="
                                 px-8 py-4 rounded-full text-xl font-semibold 
                                 bg-[var(--accent-light)] text-[var(--white)] 

@@ -23,7 +23,7 @@ const Questions = ({ question, options, onAnswerSelected, allAnwers }) => {
 
                 <div className="grid grid-cols-2">
                     {options.map((option, index) => {
-                        // Check if the current option for the current question exists in the answers list.
+                        // Har de svarat på frågan innan
                         const isSelected = allAnwers && allAnwers.some(answer =>
                             answer.question === question && answer.option === option
                         );

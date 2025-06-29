@@ -11,13 +11,15 @@ export const useQuiz = () => {
     const totalQuestions = allQuizQuestions.length;
     const progress = Math.round((currentQuestionIndex / totalQuestions) * 100);
     const isFirstQuestion = currentQuestionIndex === 0;
-    const isLastStep = currentQuestionIndex === totalQuestions; // Kanske bör vara currentQuestionIndex === totalQuestions -1 för att vara sista frågan om du inte visar en "slut-sida"
+    const isLastStep = currentQuestionIndex === totalQuestions;
 
+    // när de väljer att starta så körs denna funktion
     const handleStartQuiz = () => {
         setQuizStarted(true);
         setCurrentQuestionIndex(0);
         setQuizAnswers([]);
     };
+
 
     const handleAnswerSelected = (newAnswer) => {
         setQuizAnswers(currentAnswers => {
@@ -26,6 +28,8 @@ export const useQuiz = () => {
             );
             return [...otherAnswers, newAnswer];
         });
+
+        // denna timout ligger då de kan se svaret de valt i .25 sekunder innan de först vidare
         setTimeout(() => {
             handleNext();
         }, 250);

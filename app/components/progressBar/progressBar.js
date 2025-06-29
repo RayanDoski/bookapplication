@@ -1,7 +1,3 @@
-'use client';
-
-import React, { useState, useEffect } from 'react';
-
 const ProgressBar = ({ progress, onNext, onPrevious, isFirstQuestion, isLastQuestion }) => {
     return (
         <div className="w-full max-w-lg p-6 mx-auto">

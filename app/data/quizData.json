@@ -34,5 +34,32 @@
             "Lära dig något nytt",
             "Ha kul och underhållas"
         ]
+    },
+    {
+        "question": "Vilken genre tilltalar dig mest?",
+        "options": [
+            "Fantasy/Sci-Fi",
+            "Deckare/Thriller",
+            "Romantik/Drama",
+            "Fakta/Biografi"
+        ]
+    },
+    {
+        "question": "Hur vill du att slutet ska kännas?",
+        "options": [
+            "Hoppfullt och inspirerande",
+            "Överraskande och chockerande",
+            "Tankeväckande och öppet",
+            "Glatt och tillfredsställande"
+        ]
+    },
+    {
+        "question": "Vilken typ av karaktär dras du till?",
+        "options": [
+            "Komplexa, utvecklande",
+            "Modiga, handlingskraftiga",
+            "Intellektuella, eftertänksamma",
+            "Charmiga, roliga"
+        ]
     }
 ]

@@ -1,10 +1,7 @@
-import ProgressBar from '../components/progressBar/progressBar';
-import Navigation from '../components/navigation/navigation';
-
 const page = () => {
   return (
     <>
-      <Navigation />
+      Not Yet Implemented
     </>
   )
 }

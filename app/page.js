@@ -1,11 +1,15 @@
 'use client';
 
 import { useQuiz } from './components/hooks/useQuiz';
+import { selectingBooks } from './components/hooks/selectingBooks';
 import ProgressBar from './components/progressBar/progressBar';
 import Navigation from './components/navigation/navigation';
 import QuestionCard from './components/questions/questions';
 import OpenQuiz from './components/openQuiz/openQuiz';
 import FinishQuiz from './components/finishQuiz/finishQuiz';
+import Spinner from './components/spinner/spinner'
+import ShowRecomendedBooks from './components/showRecomendedBooks/showRecomendedBooks'
+import ErrorMessage from './components/errorMessage/errorMessage';
 
 export default function Home() {
   const {
@@ -23,6 +27,18 @@ export default function Home() {
     handlePrevious,
   } = useQuiz();
 
+  const {
+    handleShowResults,
+    recommendedBooks,
+    loadingRecommendations,
+    recommendationError,
+    isError,
+    toggleIsError
+  } = selectingBooks({ quizAnswers, totalQuestions });
+
+  console.log("quizAnswers inside Home: ", quizAnswers)
+  console.log("totalQuestions inside Home ", totalQuestions)
+
   // Anpassa main content
   let mainContent;
   if (!quizStarted) {
@@ -34,14 +50,20 @@ export default function Home() {
   } else if (isLastStep) {
     mainContent = (
       <div className='flex flex-col flex-grow items-center'>
-        <ProgressBar
-          progress={progress}
-          onNext={handleNext}
-          onPrevious={handlePrevious}
-          isFirstQuestion={isFirstQuestion}
-          isLastQuestion={isLastStep}
-        />
-        <FinishQuiz answers={quizAnswers} allQuestions={totalQuestions} />
+        {!recommendedBooks ? (
+          <>
+            <ProgressBar
+              progress={progress}
+              onNext={handleNext}
+              onPrevious={handlePrevious}
+              isFirstQuestion={isFirstQuestion}
+              isLastQuestion={isLastStep}
+            />
+            <FinishQuiz handleShowResults={handleShowResults} />
+          </>
+        ) : (
+          <ShowRecomendedBooks recommendedBooks={recommendedBooks} />
+        )}
       </div>
     );
   } else {
@@ -66,18 +88,20 @@ export default function Home() {
   }
 
   return (
-    <div className='relative flex flex-col min-h-screen'>
+    <>
+      {isError && <ErrorMessage message={'Du har inte svarat på allt, gå tillbaka och dubellkolla alla dina svar, Tack!'} onDismiss={toggleIsError} />}
+      {loadingRecommendations && <Spinner message={'Laddar...'} />}
+      <div className='relative flex flex-col min-h-screen'>
 
-      {mainContent}
+        {mainContent}
 
-      <div className='fixed bottom-0 left-0 w-full bg-white p-4 shadow-lg'>
-        <Navigation
+        {/* <Navigation
           onNext={handleNext}
           onPrevious={handlePrevious}
           isFirstQuestion={isFirstQuestion}
           isLastQuestion={isLastStep}
-        />
+        /> */}
       </div>
-    </div>
+    </>
   );
 }
