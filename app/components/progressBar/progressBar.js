@@ -7,7 +7,7 @@ const ProgressBar = ({ progress, onNext, onPrevious, isFirstQuestion, isLastQues
             <div className="flex items-center w-full">
                 <button
                     onClick={onPrevious}
-                    className="flex items-center justify-center p-2 rounded-full bg-black text-[var(--white)] hover:bg-[var(--accent-dark)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-light)] focus:ring-opacity-50 transition-all duration-300 transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed"
+                    className="flex items-center justify-center p-2 rounded-full bg-black text-white hover:bg-[var(--accent-dark)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-light)] focus:ring-opacity-50 transition-all duration-300 transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed"
                     disabled={isFirstQuestion}
                     aria-label="Föregående fråga"
                 >
@@ -27,7 +27,7 @@ const ProgressBar = ({ progress, onNext, onPrevious, isFirstQuestion, isLastQues
                 </div>
                 <button
                     onClick={onNext}
-                    className="flex items-center justify-center p-2 rounded-full bg-black text-[var(--white)] hover:bg-[var(--accent-dark)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-light)] focus:ring-opacity-50 transition-all duration-300 transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed"
+                    className="flex items-center justify-center p-2 rounded-full bg-black text-white hover:bg-[var(--accent-dark)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-light)] focus:ring-opacity-50 transition-all duration-300 transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed"
                     disabled={isLastQuestion}
                     aria-label="Nästa fråga"
                 >
