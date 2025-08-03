@@ -1,44 +1,35 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# .gitignore
 
+# ------------------------------------------------------
+# General ignores that apply to the entire project
+# ------------------------------------------------------
 # dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
+/frontend/node_modules
+/backend/venv
+/backend/.venv
+# Python bytecode files
+/backend/__pycache__/
+# OS-specific
 .DS_Store
 *.pem
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# ------------------------------------------------------
+# Next.js Frontend-specific files
+# ------------------------------------------------------
+/frontend/.next/
+/frontend/out/
+/frontend/build
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
 
-# vercel
-.vercel
 
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# for .env files
-.env.local
+# ------------------------------------------------------
+# Environment files (important!)
+# ------------------------------------------------------
+# The .env file in the root is for Docker Compose
+/.env
+# Specific .env files for each service
+/frontend/.env.local
+/backend/.env

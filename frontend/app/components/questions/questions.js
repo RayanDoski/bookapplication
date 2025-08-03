@@ -17,7 +17,7 @@ const Questions = ({ question, options, onAnswerSelected, allAnwers }) => {
         `}>
             <div className="w-full max-w-2xl">
 
-                <h2 className="text-center text-2xl font-bold mb-8">
+                <h2 className="text-center text-2xl font-bold mb-8 text-black">
                     {question}
                 </h2>
 

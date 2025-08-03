@@ -1,0 +1,21 @@
+# Use a slim Python 3.10 image as a base
+FROM python:3.10-slim
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the requirements file into the container
+COPY requirements.txt .
+
+# Install the Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of the application code into the container
+COPY . .
+
+# Expose the port that the Flask app will run on
+EXPOSE 5001
+
+# The command to run the application using Gunicorn
+# This is a production-ready WSGI server, recommended over the Flask dev server
+CMD ["gunicorn", "--bind", "0.0.0.0:5001", "--timeout", "120", "app:create_app()"]

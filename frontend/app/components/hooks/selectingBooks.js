@@ -30,7 +30,7 @@ export const selectingBooks = ({ quizAnswers, totalQuestions }) => {
 
         try {
             // making a call to the backend
-            const response = await fetch('/api/recommend-books', {
+            const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/recommend-books`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
